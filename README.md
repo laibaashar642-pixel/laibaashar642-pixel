@@ -13,7 +13,7 @@
 - 🤖 **AI Intern** — building real-world backend systems
 - 🐍 Passionate about **Python** and **Django**
 - 🌍 Based in **Lahore, Pakistan**
-- 📚 Currently learning: **AI/ML**, **OOP**, **System Design**
+- 📚 Currently learning: **AI/ML**, **OOP**, **System Design**,**Backened**
 - 💡 Motto: *"Build it, break it, learn from it"*
 
 ---
@@ -38,6 +38,8 @@
 | 🤖 [My Personal Assistant](https://github.com/laibaashar642-pixel/My-personal-assistant) | AI-powered personal assistant | Python |
 | 🔍 [Job Scraper](https://github.com/laibaashar642-pixel/Job-Scraper) | Scrapes job listings automatically | Python |
 | 🌐 [Django Folder](https://github.com/laibaashar642-pixel/Django-Folder) | Django backend projects | Python, Django |
+| 🌐 [Django Project](https://github.com/laibaashar642-pixel/EduPkMind) | Django backend projects | Python, Django |
+| 🌐 [Django Project](https://github.com/laibaashar642-pixel/Resume-Analyzer) | Django backend projects | Python, Django |
 | 🚗 Ride Sharing System | Uber-like backend dispatch system | Python |
 | ✅ Employee Task Tracker | Task management with OOP | Python |
 

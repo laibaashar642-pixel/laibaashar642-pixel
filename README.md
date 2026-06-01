@@ -76,7 +76,7 @@
 
 | Event | Project | Role | Status |
 |-------|---------|------|--------|
-| 🏅 Recent Hackathon | [Nexus AI](#) | QA & Testing | ✅ Completed |
+| 🏅 Recent Hackathon | [Nexus AI](https://github.com/callmerishi1508/Nexus-AI) · [My Fork](https://github.com/laibaashar642-pixel/Nexus-AI/tree/main) | QA & Testing | ✅ Completed |
 
 **Nexus AI** — built collaboratively with my team during a hackathon. My role was **QA and testing**: writing test cases, catching bugs under pressure, and making sure the product actually worked before demo time. A crash course in real-world team development.
 

@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **4th Semester IT Student** Intern at Webevis Technology
+- 🎓 **4th Semester IT Student**  AI Intern at Webevis Technology
 - 🤖 **AI Intern** — building real-world backend systems
 - 🐍 Passionate about **Python** and **Django**
 - 🌍 Based in **Lahore, Pakistan**
@@ -40,8 +40,8 @@
 | 🌐 [Django Folder](https://github.com/laibaashar642-pixel/Django-Folder) | Django backend projects | Python, Django |
 | 🌐 [Django Project](https://github.com/laibaashar642-pixel/EduPkMind) | Django backend projects | Python, Django |
 | 🌐 [Django Project](https://github.com/laibaashar642-pixel/Resume-Analyzer) | Django backend projects | Python, Django |
-| 🚗 Ride Sharing System | Uber-like backend dispatch system | Python |
-| ✅ Employee Task Tracker | Task management with OOP | Python |
+| 🚗 [Ride Sharing System](https://github.com/laibaashar642-pixel/Webevis_Tasks)| Uber-like backend dispatch system | Python |
+| ✅ [Employee Task Tracker](https://github.com/laibaashar642-pixel/Webevis_Tasks) | Task management with OOP | Python |
 
 ---
 
@@ -59,13 +59,9 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
 
-![snake gif](https://github.com/laibaashar642-pixel/laibaashar642-pixel/blob/output/github-contribution-grid-snake.gif)
 
-</div>
 
 ---
 

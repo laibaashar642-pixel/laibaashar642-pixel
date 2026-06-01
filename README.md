@@ -54,6 +54,7 @@
 | 📄 [Resume Analyser](https://github.com/laibaashar642-pixel/Resume-Analyzer) | Parses and scores resumes using NLP | Python · Django |
 | 🚗 [Ride Sharing System](https://github.com/laibaashar642-pixel/Webevis_Tasks) | Uber-style dispatch backend with driver matching | Python · OOP |
 | ✅ [Employee Task Tracker](https://github.com/laibaashar642-pixel/Webevis_Tasks) | OOP-based task management & reporting system | Python · OOP |
+| ✅ [Library Management System](https://github.com/laibaashar642-pixel/Webevis_Tasks) | OOP-based task management & reporting system | Python · OOP |
 
 ---
 

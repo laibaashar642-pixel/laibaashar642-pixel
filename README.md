@@ -12,24 +12,24 @@
 
 ---
 
-## who am i
+## Who am i
 
 - 🎓 4th semester IT student who actually builds things (not just watches tutorials)
-- 🤖 AI Intern @ **Webevis Technology** — working on real production Python & Django projects
-- 🐍 backend girlie — REST APIs, clean code, Django all day
-- 🏆 hackathon participant — shipped **Nexus AI** with my team under pressure (QA & testing role)
+- 🤖 AI Intern @ **Webevis Technology** — working on AI
+- 🐍 Backend girlie — REST APIs, clean code, Django all day
+- 🏆 Hackathon participant — shipped **Nexus AI** with my team under pressure (QA & testing role)
 - 📍 Lahore, Pakistan
 - 💬 motto: *"build it, break it, learn from it."*
 
 ---
 
-## tech i actually use
+## Tech I Actually Use
 
 ```python
-languages  = ["Python", "JavaScript", "C++", "HTML", "CSS"]
-frameworks = ["Django", "Django REST Framework"]
-tools      = ["Git", "GitHub", "SQLite", "REST APIs"]
-currently  = ["AI/ML", "System Design", "Advanced OOP", "DRF"]
+Languages  = ["Python", "JavaScript", "C++", "HTML", "CSS","C","C++","OOPS","DSA","COAL"]
+Frameworks = ["Django", "Django REST Framework"]
+Tools      = ["Git", "GitHub", "SQLite", "REST APIs"]
+Currently  = ["AI/ML", "DSA", "Advanced OOP", "DRF"]
 ```
 
 ---
@@ -48,7 +48,7 @@ currently  = ["AI/ML", "System Design", "Advanced OOP", "DRF"]
 
 ---
 
-## 🏆 nexus ai — hackathon project
+## 🏆 Nexus AI — Hackathon Project
 
 > **[Nexus AI](https://github.com/laibaashar642-pixel/Nexus-AI)** · built with [@callmerishi1508](https://github.com/callmerishi1508/Nexus-AI)
 

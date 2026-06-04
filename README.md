@@ -1,89 +1,74 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6464FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Laiba+Ashar!+%F0%9F%91%8B;AI+Intern+%40+Webevis+Technology;Python+%7C+Django+%7C+Backend+Development;Hackathon+participant+%7C+Nexus+AI+%F0%9F%8F%86;Building+real+systems%2C+one+bug+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6464FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Laiba+Ashar!+%F0%9F%91%8B;AI+Intern+%40+Webevis+Technology;Python+%7C+Django+%7C+DRF+%7C+Backend;Hackathon+survivor+%F0%9F%8F%86+%7C+Nexus+AI;Building+real+systems%2C+one+bug+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
-
-### 👩‍💻 Laiba Ashar
+### Laiba Ashar
 **AI Intern @ Webevis Technology · Python & Django Developer**
-4th Semester IT Student · Lahore, Pakistan
+4th Semester IT Student · Lahore, Pakistan 🇵🇰
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laiba-ashar-782b96376/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laibaashar642-pixel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/laibaashar642-pixel/laibaashar-Portfolio)
-
-![Profile Views](https://komarev.com/ghpvc/?username=laibaashar642-pixel&style=flat-square&color=6464FF&label=Profile+Views)
+[LinkedIn](https://linkedin.com/in/laiba-ashar-782b96376/) · [GitHub](https://github.com/laibaashar642-pixel) · [Portfolio](https://github.com/laibaashar642-pixel/laibaashar-Portfolio)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## who am i
 
-- 🎓 **4th Semester IT Student** — passionate about building real-world backend systems
-- 🤖 **AI Intern @ Webevis Technology** — working on production Python & Django projects
-- 🐍 Love writing clean, purposeful **Python** code
-- 🏆 **Hackathon Participant** — built *Nexus AI* with my team (QA & testing role)
-- 🌍 Based in **Lahore, Pakistan**
-- 💡 Motto: *"Build it, break it, learn from it."*
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C/C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🎓 4th semester IT student who actually builds things (not just watches tutorials)
+- 🤖 AI Intern @ **Webevis Technology** — working on real production Python & Django projects
+- 🐍 backend girlie — REST APIs, clean code, Django all day
+- 🏆 hackathon participant — shipped **Nexus AI** with my team under pressure (QA & testing role)
+- 📍 Lahore, Pakistan
+- 💬 motto: *"build it, break it, learn from it."*
 
 ---
 
-## 🚀 Featured Projects
+## tech i actually use
 
-| Project | Description | Tech |
-|---------|-------------|------|
+```python
+languages  = ["Python", "JavaScript", "C++", "HTML", "CSS"]
+frameworks = ["Django", "Django REST Framework"]
+tools      = ["Git", "GitHub", "SQLite", "REST APIs"]
+currently  = ["AI/ML", "System Design", "Advanced OOP", "DRF"]
+```
+
+---
+
+## projects
+
+| project | what it does | stack |
+|---------|-------------|-------|
 | 🤖 [Personal Assistant](https://github.com/laibaashar642-pixel/My-personal-assistant) | AI-powered voice & text assistant | Python |
-| 🔍 [Job Scraper](https://github.com/laibaashar642-pixel/Job-Scraper) | Scrapes & filters live job listings automatically | Python · BeautifulSoup |
-| 🎓 [EduPkMind](https://github.com/laibaashar642-pixel/EduPkMind) | Backend for an educational platform | Python · Django |
-| 📄 [Resume Analyser](https://github.com/laibaashar642-pixel/Resume-Analyzer) | Parses and scores resumes using NLP | Python · Django |
-| 🚗 [Ride Sharing System](https://github.com/laibaashar642-pixel/Webevis_Tasks) | Uber-style dispatch backend with driver matching | Python · OOP |
-| ✅ [Employee Task Tracker](https://github.com/laibaashar642-pixel/Webevis_Tasks) | OOP-based task management & reporting system | Python · OOP |
-| ✅ [Library Management System](https://github.com/laibaashar642-pixel/Webevis_Tasks) | OOP-based task management & reporting system | Python · OOP |
+| 🔍 [Job Scraper](https://github.com/laibaashar642-pixel/Job-Scraper) | scrapes & filters live job listings automatically | Python · BeautifulSoup |
+| 🎓 [EduPkMind](https://github.com/laibaashar642-pixel/EduPkMind) | backend for an educational platform | Python · Django |
+| 📄 [Resume Analyser](https://github.com/laibaashar642-pixel/Resume-Analyzer) | parses and scores resumes using NLP | Python · Django · DRF |
+| 🚗 [Ride Sharing System](https://github.com/laibaashar642-pixel/Webevis_Tasks) | uber-style dispatch backend with driver matching | Python · OOP |
+| ✅ [Employee Task Tracker](https://github.com/laibaashar642-pixel/Webevis_Tasks) | OOP-based task management & reporting | Python · OOP |
+| 📚 [Library Management System](https://github.com/laibaashar642-pixel/Webevis_Tasks) | full library ops with OOP architecture | Python · OOP |
 
 ---
 
-## 📚 Currently Learning
+## 🏆 nexus ai — hackathon project
 
-- 🧠 **AI / ML** — building and fine-tuning models end-to-end
-- 🏗️ **System Design** — scalable architecture & API design
-- 🐍 **Advanced OOP** — design patterns & clean code principles
-- 🔧 **Backend** — REST APIs, databases, deployment
+> **[Nexus AI](https://github.com/laibaashar642-pixel/Nexus-AI)** · built with [@callmerishi1508](https://github.com/callmerishi1508/Nexus-AI)
 
----
+not your average AI wrapper. Nexus is a **governed cognitive infrastructure** for strategic intelligence — it takes chaotic real-world event streams and reduces them into bounded, replayable strategic projections.
 
-## 🔭 Currently Working On
+what makes it different:
+- 🧠 **deterministic extraction** — strict JSON-schema pipeline, zero hallucination
+- 🕸️ **strategic memory graph** — knowledge anchored in a temporal graph (replayable, no context amnesia)
+- 🛡️ **institutional governance** — if contradictions are detected, system enters `GOVERNANCE_FROZEN` state automatically
+- 🪂 **graceful degradation** — if AI crashes, falls back to deterministic regex. the mesh survives.
 
-> Building a **Resume Analyser** with Django REST Framework and NLP — extracts skills, scores candidates, and ranks profiles automatically.
+**my role:** QA & Testing — wrote test cases, caught bugs under pressure, made sure it actually worked before demo time. real crash course in team development.
 
----
-
-## 🏆 Hackathons & Achievements
-
-| Event | Project | Role | Status |
-|-------|---------|------|--------|
-| 🏅 Recent Hackathon | [Nexus AI](https://github.com/callmerishi1508/Nexus-AI) · [My Fork](https://github.com/laibaashar642-pixel/Nexus-AI/tree/main) | QA & Testing | ✅ Completed |
-
-**Nexus AI** — built collaboratively with my team during a hackathon. My role was **QA and testing**: writing test cases, catching bugs under pressure, and making sure the product actually worked before demo time. A crash course in real-world team development.
+`Python · FastAPI · Next.js · SQLite · RBAC · LLM`
 
 ---
 
-## 📊 GitHub Stats
+
+
+## github stats
 
 <div align="center">
 
@@ -97,6 +82,8 @@
 
 <div align="center">
 
-*"Build it, break it, learn from it."*
+*"build it, break it, learn from it."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=laibaashar642-pixel&style=flat-square&color=6464FF&label=Profile+Views)
 
 </div>

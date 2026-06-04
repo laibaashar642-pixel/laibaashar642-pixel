@@ -6,7 +6,7 @@
 **AI Intern @ Webevis Technology · Python & Django Developer**
 4th Semester IT Student · Lahore, Pakistan 🇵🇰
 
-[LinkedIn](https://linkedin.com/in/laiba-ashar-782b96376/) · [GitHub](https://github.com/laibaashar642-pixel) · [Portfolio](https://github.com/laibaashar642-pixel/laibaashar-Portfolio)
+[LinkedIn](https://linkedin.com/in/laiba-ashar-782b96376/) · [GitHub](https://github.com/laibaashar642-pixel) · [Portfolio](https://laibaashar642-pixel.github.io/laibaashar-Portfolio/)
 
 </div>
 

@@ -28,7 +28,7 @@
 ```python
 Languages  = ["Python", "JavaScript", "C++", "HTML", "CSS","C","C++","OOPS","DSA","COAL"]
 Frameworks = ["Django", "Django REST Framework"]
-Tools      = ["Git", "GitHub", "SQLite", "REST APIs"]
+Tools      = ["Git", "GitHub", "SQLite", "REST APIs","VS-Code"]
 Currently  = ["AI/ML", "DSA", "Advanced OOP", "DRF"]
 ```
 
@@ -45,6 +45,7 @@ Currently  = ["AI/ML", "DSA", "Advanced OOP", "DRF"]
 | 🚗 [Ride Sharing System](https://github.com/laibaashar642-pixel/Webevis_Tasks) | uber-style dispatch backend with driver matching | Python · OOP |
 | ✅ [Employee Task Tracker](https://github.com/laibaashar642-pixel/Webevis_Tasks) | OOP-based task management & reporting | Python · OOP |
 | 📚 [Library Management System](https://github.com/laibaashar642-pixel/Webevis_Tasks) | full library ops with OOP architecture | Python · OOP |
+| 📚 [Vibe Check API](https://github.com/laibaashar642-pixel/VibeCheckAPI) | Mood Checker |Django,DRF,Machine Learning(Linear Regression) |
 
 ---
 

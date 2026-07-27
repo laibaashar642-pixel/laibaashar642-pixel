@@ -1,13 +1,11 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6464FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Laiba+Ashar!+%F0%9F%91%8B;AI+Intern+%40+Webevis+Technology;Python+%7C+Django+%7C+DRF+%7C+Backend;Hackathon+survivor+%F0%9F%8F%86+%7C+Nexus+AI;Building+real+systems%2C+one+bug+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6464FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Laiba+Ashar!+%F0%9F%91%8B;AI%2FML+Intern+%40+Webevis+Technology;Python+%7C+Django+%7C+DRF+%7C+Computer+Vision;Hackathon+survivor+%F0%9F%8F%86+%7C+Nexus+AI;Building+real+systems%2C+one+bug+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
 ### Laiba Ashar
-**AI Intern @ Webevis Technology · Python & Django Developer**
+**AI/ML Intern @ Webevis Technology · Python, Django & Computer Vision Developer**
 4th Semester IT Student · Lahore, Pakistan 🇵🇰
 
 [LinkedIn](https://linkedin.com/in/laiba-ashar-782b96376/) · [GitHub](https://github.com/laibaashar642-pixel) · [Portfolio](https://laibaashar642-pixel.github.io/laibaashar-Portfolio/)
-
 </div>
 
 ---
@@ -15,8 +13,9 @@
 ## Who am i
 
 - 🎓 4th semester IT student who actually builds things (not just watches tutorials)
-- 🤖 AI Intern @ **Webevis Technology** — working on AI
+- 🤖 AI/ML Intern @ **Webevis Technology** — training YOLO models for detection, segmentation & pose estimation, and building the deep learning fundamentals from scratch (NumPy, backprop, softmax)
 - 🐍 Backend girlie — REST APIs, clean code, Django all day
+- 👁️ Also deep in computer vision — YOLO, OpenCV, MediaPipe, OpenPose, tracking with ByteTrack
 - 🏆 Hackathon participant — shipped **Nexus AI** with my team under pressure (QA & testing role)
 - 📍 Lahore, Pakistan
 - 💬 motto: *"build it, break it, learn from it."*
@@ -26,10 +25,12 @@
 ## Tech I Actually Use
 
 ```python
-Languages  = ["Python", "JavaScript", "C++", "HTML", "CSS","C","C++","OOPS","DSA","COAL"]
-Frameworks = ["Django", "Django REST Framework"]
-Tools      = ["Git", "GitHub", "SQLite", "REST APIs","VS-Code"]
-Currently  = ["AI/ML", "DSA", "Advanced OOP", "DRF"]
+Languages     = ["Python", "JavaScript", "C++", "HTML", "CSS", "C", "OOPS", "DSA", "COAL"]
+Frameworks    = ["Django", "Django REST Framework"]
+AI / ML       = ["YOLO (detect/segment/pose)", "OpenCV", "MediaPipe", "OpenPose", "ByteTrack", "NumPy", "Pandas"]
+Concepts      = ["Deep Neural Networks (from scratch)", "Zero-shot & Few-shot Detection", "NMS", "mAP / IoU"]
+Tools         = ["Git", "GitHub", "SQLite", "REST APIs", "Google Colab", "Roboflow", "VS-Code"]
+Currently     = ["AI/ML", "DSA", "Advanced OOP", "DRF"]
 ```
 
 ---
@@ -38,6 +39,7 @@ Currently  = ["AI/ML", "DSA", "Advanced OOP", "DRF"]
 
 | project | what it does | stack |
 |---------|-------------|-------|
+| 🖐️ [Sign Language Detection (ASL)](https://github.com/laibaashar642-pixel) | custom-trained YOLO model detecting American Sign Language alphabet & words in real time | Python · YOLO · OpenCV |
 | 🤖 [Personal Assistant](https://github.com/laibaashar642-pixel/My-personal-assistant) | AI-powered voice & text assistant | Python |
 | 🔍 [Job Scraper](https://github.com/laibaashar642-pixel/Job-Scraper) | scrapes & filters live job listings automatically | Python · BeautifulSoup |
 | 🎓 [EduPkMind](https://github.com/laibaashar642-pixel/EduPkMind) | backend for an educational platform | Python · Django |
@@ -45,7 +47,7 @@ Currently  = ["AI/ML", "DSA", "Advanced OOP", "DRF"]
 | 🚗 [Ride Sharing System](https://github.com/laibaashar642-pixel/Webevis_Tasks) | uber-style dispatch backend with driver matching | Python · OOP |
 | ✅ [Employee Task Tracker](https://github.com/laibaashar642-pixel/Webevis_Tasks) | OOP-based task management & reporting | Python · OOP |
 | 📚 [Library Management System](https://github.com/laibaashar642-pixel/Webevis_Tasks) | full library ops with OOP architecture | Python · OOP |
-| 📚 [Vibe Check API](https://github.com/laibaashar642-pixel/VibeCheckAPI) | Mood Checker |Django,DRF,Machine Learning(Linear Regression) |
+| 📚 [Vibe Check API](https://github.com/laibaashar642-pixel/VibeCheckAPI) | Mood Checker | Django, DRF, Machine Learning (Linear Regression) |
 
 ---
 
@@ -64,11 +66,6 @@ what makes it different:
 **my role:** QA & Testing — wrote test cases, caught bugs under pressure, made sure it actually worked before demo time. real crash course in team development.
 
 `Python · FastAPI · Next.js · SQLite · RBAC · LLM`
-
----
-
-
-
 
 ---
 

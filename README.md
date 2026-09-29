@@ -52,7 +52,6 @@
 <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-6464FF?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js_(basic)-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
 **AI / Computer Vision**
 <br/>
